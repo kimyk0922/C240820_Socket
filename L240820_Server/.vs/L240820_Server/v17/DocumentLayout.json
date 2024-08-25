@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cpp\\L240820\\L240820_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9D2BE-4521-48DE-BC0B-5FBFEE78B719}|L240820_Ser\\L240820_Ser.vcxproj|C:\\Cpp\\L240820\\L240820_Server\\L240820_Ser\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF9D2BE-4521-48DE-BC0B-5FBFEE78B719}|L240820_Ser\\L240820_Ser.vcxproj|solutionrelative:L240820_Ser\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "C:\\Cpp\\L240820\\L240820_Server\\L240820_Ser\\Server.cpp",
+              "RelativeDocumentMoniker": "L240820_Ser\\Server.cpp",
+              "ToolTip": "C:\\Cpp\\L240820\\L240820_Server\\L240820_Ser\\Server.cpp",
+              "RelativeToolTip": "L240820_Ser\\Server.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T06:54:25.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
